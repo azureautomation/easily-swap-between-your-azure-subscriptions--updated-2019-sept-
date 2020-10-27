@@ -1,7 +1,7 @@
 {
     "Author": "Ben Wilkinson",
     "ContentSize": 1953,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/easily-swap-between-your-azure-subscriptions-(updated-2019-sept)/master/azl.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/easily-swap-between-your-azure-subscriptions--updated-2019-sept-/master/azl.ps1",
     "DownloadCount": 546,
     "Id": "Easily-swap-between-your-8d59f794",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Do you manage more than a single Azure subscription and want an easy way to swap between them ?This function is short and easy to use for anyone.Step 1# install the azure module (one time)\u00a0install-module az -force\u00a0# run this one time\u00a0Enable-AzContextAutosavelogin-azaccount\u00a0\u00a0# run",
     "Title": "Easily swap between your Azure subscriptions (updated 2019 Sept)",
     "UpdatedDate": "2019-9-20T00:00:00",
-    "Url": "https://github.com/azureautomation/easily-swap-between-your-azure-subscriptions-(updated-2019-sept)",
+    "Url": "https://github.com/azureautomation/easily-swap-between-your-azure-subscriptions--updated-2019-sept-",
     "UserTags": "Azure, Subscriptions"
 }
